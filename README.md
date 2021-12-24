@@ -1,4 +1,4 @@
 # Discord-Streaming-Status 
 
-#Installation
+# Installation
 to set up the streambot, run "Installer.bat" to install all the required python modules
